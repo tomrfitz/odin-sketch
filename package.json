@@ -2,7 +2,7 @@
   "name": "odin-sketch",
   "version": "1.0.0",
   "description": "etch a sketch based on odin lesson",
-  "main": "index.js",
+  "main": "index.ts",
   "repository": "https://github.com/tomrfitz/odin-sketch.git",
   "author": "tomrfitz",
   "license": "MIT",
